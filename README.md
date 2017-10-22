@@ -18,4 +18,4 @@ http://www.idabook.com/ctf/rsbo_writeup.txt rsbo-pwnable
 
 
 # Done
-Hitcon 14
+[Hitcon 14](https://github.com/ctfs/write-ups-2014/tree/master/hitcon-ctf-2014)
