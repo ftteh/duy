@@ -15,7 +15,7 @@ https://github.com/ctfs/write-ups-2014/tree/master/hitcon-ctf-2014/hop (same as 
 
 
 
-## hitcon-ctf-quals-2015
+
 
 
 
